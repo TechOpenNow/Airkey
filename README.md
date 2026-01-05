@@ -3,4 +3,4 @@ AirKey is an open-source all-in-one wireless tool that combines BLE 5.0, Wi-Fi, 
 
 Whether you choose the USB Dongle, the RP2040 module, or the Raspberry Pi HAT, AirKey delivers seamless connectivity and flexibility across all your workflows.
 
-<img src="https://i.kickstarter.com/assets/051/028/828/d2938e267c89fac412611bec35e4f368_original.jpg?fit=scale-down&origin=ugc&q=92&v=1759140553&width=680&sig=Z%2FMNjh2UtI6iiaBT8%2FemkZhSqTBzUhm02250YQMpU7g%3D" alt="Airkey" width="60%"/>
+<img src="https://i.kickstarter.com/assets/051/028/828/d2938e267c89fac412611bec35e4f368_original.jpg?fit=scale-down&origin=ugc&q=92&v=1759140553&width=680&sig=Z%2FMNjh2UtI6iiaBT8%2FemkZhSqTBzUhm02250YQMpU7g%3D" alt="Airkey" width="50%"/>
