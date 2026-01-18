@@ -54,6 +54,21 @@ This contains all the library related to Airkey boards and example codes to test
 16. set_LORA_key - Set the LORA key, used for encryption (0 to 65535 range)
 
 You can also create your functions in the library (airkey.py) as per the AT Commands
+
+## Example Codes
+
+**Example1_module_test** : This is basic AT test example code to check the link with module
+
+**Example2_WIFI_TCP_Server** : In this example the module will be connected via WiFi to a TCP server and send the data to TCP server. Make sure your computer where TCP server is running using netassist will be on the same network as the module is connected to the WiFi using "set_WIFI_STA("MYWIFI", 12345678)"
+
+Please follow the below steps:
+
+1. Install the netassist.exe (check the tool directory to download). Run the netassist.exe and select TCP Server. Check the IP and Port (you can also change the port number), then update the same in this example code "set_TCP(your IP, your port)".
+
+   <img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/543ae5a2-eacd-49ed-812d-2a795f7e67e1" />
+
+2. You can also check the module datasheet for more information on this.
+
      
 
 
