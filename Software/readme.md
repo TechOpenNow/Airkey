@@ -69,6 +69,16 @@ Please follow the below steps:
 
 2. You can also check the module datasheet for more information on this.
 
+**Example_BLE_AT_Command**
+Donwload the BLE tester App (https://play.google.com/store/apps/details?id=com.zhctwh.ble_tester) or you can use any other BLE apps.
+
+Open the App -> Scan for devices -> Go to Service FFF0 -> Select FFF3 Characteristic -> Change to ASCII and enable the Read - > send the AT+AUTH=123456, this is authorization key to enter to AT Commands -> You can test with AT command  
+
+   <img width="1541" height="748" alt="image" src="https://github.com/user-attachments/assets/95284667-2210-4d17-9c7e-c8d19acd6cce" />
+
+
+
+
      
 
 
