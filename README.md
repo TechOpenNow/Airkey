@@ -40,7 +40,7 @@ As you can see the Yellow Jumper, by changing these jumper settings you can chan
 
 ## LoRa and WiFi Antenna
 
-<img width="380" height="380" alt="image" src="https://github.com/user-attachments/assets/5a365296-8557-402d-a1e3-16785b04ff40" />
+<img width="480" height="380" alt="image" src="https://github.com/user-attachments/assets/5a365296-8557-402d-a1e3-16785b04ff40" />
 
 The smaller antenna is of WiFi Antenna and Bigger Antenna is for LoRa
 
