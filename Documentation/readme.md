@@ -21,9 +21,13 @@
    <img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/a1b49e36-a654-435b-93f9-75e78fd21343" />
 
 
-5. UART AT command configuration
+5. UART AT Command Configuration
+   AT+HMODE=0 //Enter the configuration module
 
    <img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/6cea94fe-3aff-47d1-abc3-691a18679038" />
+
+
+6. TCP AT Command Configuration
 
 
 
