@@ -62,7 +62,7 @@
    <img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/51681336-6c01-4bdd-8bb7-2de95642d8ae" />
 
 
-**6. Lora Point to Point Commuication**
+**7. Lora Point to Point Commuication**
 
    Configure the Moudule 1 as below:
    
