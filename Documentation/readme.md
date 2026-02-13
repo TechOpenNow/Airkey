@@ -14,9 +14,16 @@
    <img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/d754230b-7007-46a0-a68e-65d2b6e15f0e" />
 
    <img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/b9860190-bc79-4e18-95c4-ff711f1d5b56" />
+   
 
 4. Check the AT Command as per below - select the COMM PORT and Baudrate - 115200
 
    <img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/a1b49e36-a654-435b-93f9-75e78fd21343" />
+
+
+5. UART AT command configuration
+
+   <img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/6cea94fe-3aff-47d1-abc3-691a18679038" />
+
 
 
