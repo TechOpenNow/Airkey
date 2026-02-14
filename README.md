@@ -42,7 +42,7 @@ WIFI - Default high, WIFI connected, TCP not connected outputs 1Hz high and low 
 
 <img width="380" height="380" alt="image" src="https://github.com/user-attachments/assets/fc0a444d-7cbe-47af-9a61-761960defca8" />
 
-As you can see the Yellow Jumper, by changing these jumper settings you can change the UART/USB communication.
+As you can see the Yellow Jumper, by changing these jumper settings you can change the UART/USB communication. Once the jumper is set to USB, then you can connect the USB cable to Airkey HAT and connect it with Raspberry Pi or to any other device and communicate.
 
 ## LoRa and WiFi Antenna
 
