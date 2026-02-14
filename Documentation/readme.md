@@ -92,6 +92,8 @@
      00 01 01 AA BB CC   // Target address is 00 01, channel is 01, data is AA BB CC
 
    <img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/e968d7c8-40ba-4013-bafc-b060b2c8ec9c" />
+
+   After this, tick the HEX setting in Send and Recieve both to check the correct data. In LoRa communication data will sent in HEX format
    
 
    <img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/fe3d803b-3b39-4fc3-b7df-65f51fc5af2c" />
